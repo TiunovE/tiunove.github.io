@@ -1,0 +1,15 @@
+.content {
+    background-color: black;
+} 
+p {
+text-align: justify;
+font-size: 20px;
+color: beige;
+}
+h1 {
+color: burlywood;
+}
+img {
+    width: 100px;
+    height: 150px;
+}
